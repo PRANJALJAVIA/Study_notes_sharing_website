@@ -1,9 +1,9 @@
 # Study notes sharing website
 
 - In the project “Notes Sharing Site Project”, there are three types of users.
-1. Admin
-2. Student
-3. Teacher
+  1. Admin
+  2. Student
+  3. Teacher
 
 - In the project “Notes Sharing Site Project”, if any users have to upload any multimedia notes, they can do so by registering themselves in the  registration  link.  The entire  system  described  here  is  totally computerized.
 
